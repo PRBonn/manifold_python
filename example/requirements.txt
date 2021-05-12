@@ -1,0 +1,4 @@
+Click>=7.0
+manifold==0.1
+open3d>=0.12
+numpy

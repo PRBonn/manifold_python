@@ -1,3 +1,4 @@
+Copyright (c) 2021 Ignacio Vizzo and Cyrill Stachniss. All rights reserved.
 Copyright (c) 2018 Jingwei Huang. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

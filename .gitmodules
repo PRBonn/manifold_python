@@ -1,0 +1,9 @@
+[submodule "3rdparty/pybind11"]
+	path = 3rdparty/pybind11
+	url = https://github.com/pybind/pybind11
+[submodule "3rdparty/glm"]
+	path = 3rdparty/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "3rdparty/Eigen"]
+	path = 3rdparty/Eigen
+	url = https://gitlab.com/libeigen/eigen.git
